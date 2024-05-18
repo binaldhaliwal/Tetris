@@ -10,6 +10,7 @@ import javax.sound.sampled.Clip;
 /**
  * Singleton class to manage all sounds played. Controls background music, sfx,
  * pause/play status, and muted/unmuted status.
+ * @author Corey Young
  * @version 1.0
  */
 // Simplification of Error Handling: decided to simplify error handling by catching a generic
