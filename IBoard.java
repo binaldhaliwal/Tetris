@@ -7,7 +7,7 @@ import java.util.List;
  * Board Interface.
  *
  * @author binaldhaliwal
- * @version autumn 2023
+ * @version 1.0
  */
 public interface IBoard {
     /**
