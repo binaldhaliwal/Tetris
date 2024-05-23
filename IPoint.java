@@ -4,7 +4,7 @@ package model;
  * Point Interface.
  *
  * @author Corey and Jonathan
- * @version Autumn 2023
+ * @version 1.0
  */
 public interface IPoint {
     /**
