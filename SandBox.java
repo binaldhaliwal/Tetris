@@ -9,7 +9,7 @@ import view.GUI;
  * TCSS 305 - Project Tetris
  *
  * @author Jonathan Kim, Binal Dhaliwal, Eric John, Corey Young.
- * @version 11/14/2023
+ * @version 1.0
  */
 public final class SandBox {
     /**
