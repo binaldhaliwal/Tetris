@@ -15,7 +15,7 @@ import model.TetrisPiece;
  * NextTetris shows the T tetromino centered inside the blue(next tetris piece) region.
  *
  * @author ejohn5
- * @version Autumn 2023
+ * @version 1.0
  */
 
 // Magic numbers suppressed in this class are constants that represent specific values
