@@ -30,7 +30,7 @@ import model.IBoard;
  * @author Eric
  * @author Corey
  * @author binaldhaliwal
- * @version Autumn 2023
+ * @version 1.0
  */
 // Simplification of Error Handling: decided to supress warnings for magic numbers since this
 // is used for the layout of the panels. Along with that, warnings for long lambda expressions
