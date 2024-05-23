@@ -17,7 +17,7 @@ import model.TetrisPiece;
  * NextTetris shows the T tetromino centered inside the blue(next tetris piece) region.
  *
  * @author binaldhaliwal
- * @version Autumn 2023
+ * @version 1.0
  */
 public class NextTetrisCanvas extends JPanel implements PropertyChangeListener, ITheme {
     /**
